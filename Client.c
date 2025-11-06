@@ -14,7 +14,7 @@ int client_socket;
 // Function to handle SIGINT signal (Ctrl+C)
 void handle_sigint(int sig)
 {
-    (void)sig; // Cast to void to suppress unused parameter warning
+    (void)sig; 
     printf("\nDisconnecting from server...\n");
     close(client_socket);
     exit(0);
