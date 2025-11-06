@@ -6,7 +6,6 @@
 #include <sys/file.h>
 #include <semaphore.h>
 #include <ctype.h>
-
 #include "common.h"
 #include "utils.h"
 
