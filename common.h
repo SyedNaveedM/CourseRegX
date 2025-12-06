@@ -4,7 +4,7 @@
 #include <semaphore.h>
 
 // Constants
-#define PORT 8080
+#define PORT 5050
 #define MAX_CLIENTS 100
 #define BUFFER_SIZE 1024
 #define MAX_COURSES 50
