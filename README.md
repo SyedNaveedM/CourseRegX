@@ -77,6 +77,13 @@ The client will automatically connect to the server’s IP and port defined in `
 
 > 💡 You can run multiple clients concurrently — each will be handled by a separate thread on the server.
 
+### Step 5: Run Unit and Integration tests
+
+
+```bash
+make test
+```
+
 ---
 
 ## 🧠 Technical Highlights
