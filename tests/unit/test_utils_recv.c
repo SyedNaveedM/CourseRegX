@@ -4,8 +4,8 @@
 #include <unistd.h>
 #include <sys/socket.h>
 #include <semaphore.h>
-#include "../common.h"
-#include "../utils.h"
+#include "../../common.h"
+#include "../../utils.h"
 #include "unit_test.h"
 
 extern void reset_recv_buffer(void);

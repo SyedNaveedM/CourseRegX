@@ -7,8 +7,8 @@
 #include <fcntl.h>
 #include <semaphore.h>
 
-#include "../common.h"
-#include "../utils.h"
+#include "../../common.h"
+#include "../../utils.h"
 #include "unit_test.h"
 
 // Define the extern semaphores from common.h

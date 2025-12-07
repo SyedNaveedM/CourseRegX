@@ -110,7 +110,7 @@ void handle_client(int client_socket) {
         memset(buffer, 0, BUFFER_SIZE);
 
         int check = recv_message(client_socket, buffer);
-        if (check < 0) {
+        if (check <~ 0) {
             send_message(client_socket, "Unknown Error Occurred\n");
             continue;
         }

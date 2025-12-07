@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/file.h>
-
+#include <pthread.h>
 #include "utils.h"
 #include "common.h"
 
