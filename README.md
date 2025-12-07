@@ -104,8 +104,9 @@ make test
 
 ---
 
-## 🧰 Requirements
+## Team Members
 
-* GCC compiler
-* POSIX-compliant system (Linux/Mac)
-* Make utility (`make`)
+1. Syed Naveed Mohammed - IMT2023119
+2. Yashub Goel - IMT2023117
+3. Saheem Reshi - IMT2023051
+4. Satyam Dewangan - IMT2023545
