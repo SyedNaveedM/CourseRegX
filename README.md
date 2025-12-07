@@ -110,3 +110,5 @@ make test
 2. Yashub Goel - IMT2023117
 3. Saheem Reshi - IMT2023051
 4. Satyam Dewangan - IMT2023545
+
+## Please refer to Bad_Habits_Project_Report.pdf for all the details about the project components, design and features
